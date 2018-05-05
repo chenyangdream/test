@@ -10,7 +10,7 @@ void testhello()
 	printf("I am a testhello.\n");
 }
 
-void testmaster()
+void testworld()
 {
-	printf("I am a testmaster.\n");
+	printf("I am a test helloworld.\n");
 }
