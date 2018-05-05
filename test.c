@@ -14,3 +14,8 @@ void testworld()
 {
 	printf("I am a test helloworld.\n");
 }
+
+void testclient()
+{
+	printf("I am a testclient.\n");
+}
