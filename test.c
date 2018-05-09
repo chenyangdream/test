@@ -10,6 +10,11 @@ void testhello()
 	printf("I am a testhello.\n");
 }
 
+void testdev()
+{
+	printf("I am a testdev.\n");
+}
+
 void testworld()
 {
 	printf("I am a test helloworld.\n");
